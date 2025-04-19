@@ -1,6 +1,6 @@
 # Quartz.NET Background Job Scheduler Example
 
-This project demonstrates how to use **Quartz.NET** with **ASP.NET Core** to schedule background jobs.
+This project demonstrates how to use **Quartz.NET** with **.NET 9** to schedule background jobs.
 
 It defines **three jobs**:
 - `NotiDayEndJob`
