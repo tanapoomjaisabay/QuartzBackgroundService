@@ -1,5 +1,5 @@
 
-# QuartzBackgroundService &nbsp;![.NET](https://img.shields.io/badge/.NET%209-512BD4?logo=dotnet&logoColor=white) ![Quartz.NET](https://img.shields.io/badge/Quartz.NET-0A6ED1) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+# QuartzBackgroundService &nbsp;![.NET](https://img.shields.io/badge/.NET%209-512BD4?logo=dotnet&logoColor=white) ![Quartz.NET](https://img.shields.io/badge/Quartz.NET-0A6ED1) 
 
 > **Hands‑on demo** of running **Quartz.NET** jobs as a hosted service in **.NET 9** – perfect template for background scheduling in microservices.
 
@@ -18,8 +18,7 @@
 ## 🛠️ Tech Stack
 
 - **ASP.NET Core 9** minimal hosting model  
-- **Quartz.NET 3.9**   
-- **Docker** & **GitHub Actions** for CI
+- **Quartz.NET 3.9**
 
 ---
 
